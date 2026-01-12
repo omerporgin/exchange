@@ -1,0 +1,21 @@
+100 adet sipariş başarıyla çekildi.
+
+Toplam 100 adet sipariş bulundu.
+
+CompanyId: 3 Order_id: 28179536 Error:Dönüştürme hatası: BaseLinker sipariş dönüştürme hatası: Cari Hesap Grup Kartları tablosunda GroupId Alanında 16 bulunamadı. Lütfen tanımlayınız.
+
+CompanyId: 3 Order_id: 28180751 Error:Dönüştürme hatası: BaseLinker sipariş dönüştürme hatası: Cari Hesap Grup Kartları tablosunda GroupId Alanında 16 bulunamadı. Lütfen tanımlayınız.
+
+CompanyId: 1 Order_id: 28180959 Sipariş başarıyla dönüştürüldü. Sipariş No: 28180959 - Fatura başarıyla oluşturuldu. Fatura No: 1Virman oluşturuldu. Virman Fiş No: 1
+
+CompanyId: 3 Order_id: 28181126 Error:Dönüştürme hatası: BaseLinker sipariş dönüştürme hatası: Cari Hesap Grup Kartları tablosunda GroupId Alanında 16 bulunamadı. Lütfen tanımlayınız.
+
+CompanyId: 2 Order_id: 28181357 Error:Dönüştürme hatası: BaseLinker sipariş dönüştürme hatası: Cari Hesap Grup Kartları tablosunda GroupId Alanında 15 bulunamadı. Lütfen tanımlayınız.
+
+CompanyId: 2 Order_id: 28184117 Error:Dönüştürme hatası: BaseLinker sipariş dönüştürme hatası: Cari Hesap Grup Kartları tablosunda GroupId Alanında 15 bulunamadı. Lütfen tanımlayınız.
+
+CompanyId: 2 Order_id: 28193318 Error:Dönüştürme hatası: BaseLinker sipariş dönüştürme hatası: Cari Hesap Grup Kartları tablosunda GroupId Alanında 15 bulunamadı. Lütfen tanımlayınız.
+
+CompanyId: 2 Order_id: 28196615 Error:Dönüştürme hatası: BaseLinker sipariş dönüştürme hatası: Cari Hesap Grup Kartları tablosunda GroupId Alanında 15 bulunamadı. Lütfen tanımlayınız.
+
+CompanyId: 2 Order_id: 28200758 Error:Dönüştürme hatası: BaseLinker sipariş dönüştürme hatası: Cari Hesap Grup Kartları tablosunda GroupId Alanında 15 bulunamadı. Lütfen tanımlayınız.
